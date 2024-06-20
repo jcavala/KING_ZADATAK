@@ -1,0 +1,6 @@
+@KING_ZADATAK_HostAddress = http://localhost:7039
+
+GET http://localhost:7039/user
+Authorization: Bearer CfDJ8OfGbHRutWJJiv_6u9NirzdQq9GUm9t1So3Bwfn7taMx8GtUyHakPZjNdvllZQD1PRWXwOuZMz_CaE6huSbz-j8d7mqwhwcl9lxLPCPEFps6_7d8Q6ry7hPKAAiMS7JGCGKNGWpetr6VyrYM-7zi9vvcSMx3Cnm8G6xvcy1PeRtptyhudI0aB5obSXWpsqYkI01q-MrEZjo9bh8FRaSxsJZSvoEltX8osmYg4CurScW-D7q_AhUoCwNNShHWoW_K6_Y_bbCXAyial1ZuA4v5doA
+
+###
