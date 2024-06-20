@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet\\KING_ZADATAK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EF3754-F3A3-4900-A21C-0D77EB8026CD}|..\\KING_ZAFATAK_TEST\\KING_ZAFATAK_TEST.csproj|c:\\dotnet\\king_zafatak_test\\king_zafatak_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EF3754-F3A3-4900-A21C-0D77EB8026CD}|..\\KING_ZAFATAK_TEST\\KING_ZAFATAK_TEST.csproj|c:\\dotnet\\king_zafatak_test\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EF3754-F3A3-4900-A21C-0D77EB8026CD}|..\\KING_ZAFATAK_TEST\\KING_ZAFATAK_TEST.csproj|c:\\dotnet\\king_zafatak_test\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EF3754-F3A3-4900-A21C-0D77EB8026CD}|..\\KING_ZAFATAK_TEST\\KING_ZAFATAK_TEST.csproj|c:\\dotnet\\king_zafatak_test\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KING_ZAFATAK_TEST.csproj",
+              "DocumentMoniker": "C:\\dotnet\\KING_ZAFATAK_TEST\\KING_ZAFATAK_TEST.csproj",
+              "RelativeDocumentMoniker": "..\\KING_ZAFATAK_TEST\\KING_ZAFATAK_TEST.csproj",
+              "ToolTip": "C:\\dotnet\\KING_ZAFATAK_TEST\\KING_ZAFATAK_TEST.csproj",
+              "RelativeToolTip": "..\\KING_ZAFATAK_TEST\\KING_ZAFATAK_TEST.csproj",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T18:55:21.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntegrationTests.cs",
+              "DocumentMoniker": "C:\\dotnet\\KING_ZAFATAK_TEST\\IntegrationTests.cs",
+              "RelativeDocumentMoniker": "..\\KING_ZAFATAK_TEST\\IntegrationTests.cs",
+              "ToolTip": "C:\\dotnet\\KING_ZAFATAK_TEST\\IntegrationTests.cs",
+              "RelativeToolTip": "..\\KING_ZAFATAK_TEST\\IntegrationTests.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAApwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:16:50.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "C:\\dotnet\\KING_ZAFATAK_TEST\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\KING_ZAFATAK_TEST\\AuthControllerTests.cs",
+              "ToolTip": "C:\\dotnet\\KING_ZAFATAK_TEST\\AuthControllerTests.cs",
+              "RelativeToolTip": "..\\KING_ZAFATAK_TEST\\AuthControllerTests.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:06:46.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\dotnet\\KING_ZAFATAK_TEST\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "..\\KING_ZAFATAK_TEST\\GlobalUsings.cs",
+              "ToolTip": "C:\\dotnet\\KING_ZAFATAK_TEST\\GlobalUsings.cs",
+              "RelativeToolTip": "..\\KING_ZAFATAK_TEST\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:55:32.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
